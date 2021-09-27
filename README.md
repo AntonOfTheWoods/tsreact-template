@@ -1,0 +1,3 @@
+This is a lazy version of a typescript/react website template, that I mainly use instead of learning something like `storybook`, which is too much extra bandwidth for my poor aging brain, at least when this was created.
+
+It is temporary and almost certainly doesn't represent anything like best practices. But do JS developers even know what that would mean anyway? How can you have 3743 best practices, depending on which way the wind was blowing on the afternoon of your aunt's 53rd birthday? There were snowflakes, that's how...
